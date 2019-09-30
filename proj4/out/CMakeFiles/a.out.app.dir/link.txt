@@ -1,0 +1,1 @@
+/usr/bin/clang++      CMakeFiles/a.out.app.dir/app/RoadMapWriter.cpp.o CMakeFiles/a.out.app.dir/app/TripReader.cpp.o CMakeFiles/a.out.app.dir/app/InputReader.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o CMakeFiles/a.out.app.dir/app/RoadMapReader.cpp.o  -o bin/a.out.app -lc++ -lpthread 
